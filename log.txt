@@ -1,0 +1,2 @@
+2023-02-23 12:33:24,860 INFO     Application has started
+2023-02-23 12:33:24,861 DEBUG    Application has started
